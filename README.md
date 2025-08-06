@@ -24,6 +24,10 @@ Here’s a high-level view of the components:
         ⬇️
 📤 Intelligent Email Response
 
+
+
+
+
 <img width="674" height="925" alt="output" src="https://github.com/user-attachments/assets/4367b53d-5c46-4361-a343-5762e6a857ed" />
 
 
