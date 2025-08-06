@@ -167,5 +167,7 @@ LangChain + Ollama	LLM orchestration and RAG
 Chroma DB	Vector store for internal documents
 Automation Anywhere	Email interaction & orchestration
 
+https://youtu.be/qVQmgrfEqsk?si=GcT9vwU-KfygPpgG
+
 🚀 Conclusion
 By combining LangGraph's intelligent agent framework with FastAPI and Automation Anywhere, we built a powerful, modular, and scalable email automation system capable of reading, understanding, and replying to emails in a human-like, quality-controlled way.
