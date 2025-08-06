@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain_community
+langchain_core
+langchain_groq
+fastapi
+python-dotenv
+langchain-ollama
+uvicorn
+langchain_chroma
