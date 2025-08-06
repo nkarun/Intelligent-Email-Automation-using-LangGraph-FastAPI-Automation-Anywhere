@@ -23,6 +23,10 @@ Here’s a high-level view of the components:
 🧠 LangGraph Workflow
         ⬇️
 📤 Intelligent Email Response
+
+<img width="674" height="925" alt="output" src="https://github.com/user-attachments/assets/4367b53d-5c46-4361-a343-5762e6a857ed" />
+
+
 💡 Why LangGraph?
 LangGraph allows us to build stateful, multi-step workflows that can incorporate branching logic, loops, and memory — ideal for our email response generation use case. Instead of using a single LLM call, we're orchestrating a series of intelligent agents to:
 
