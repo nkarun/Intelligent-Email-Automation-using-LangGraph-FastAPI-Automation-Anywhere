@@ -167,6 +167,26 @@ LangChain + Ollama	LLM orchestration and RAG
 Chroma DB	Vector store for internal documents
 Automation Anywhere	Email interaction & orchestration
 
+Sample Result
+
+Here’s a simplified example of the output:
+
+Result 1: Email Category - Product_Enquiry 
+
+<img width="704" height="347" alt="image" src="https://github.com/user-attachments/assets/1cb6e209-0cf1-4e2d-80aa-f7b1f48c8a9e" />
+
+<img width="704" height="521" alt="image" src="https://github.com/user-attachments/assets/30238aec-e17b-443c-bb53-cd9cca3ad5d9" />
+
+Result 2: Email Category - Customer_feedback
+
+<img width="704" height="518" alt="image" src="https://github.com/user-attachments/assets/cba27f3f-c4bc-463a-8948-baf109bdfeee" />
+
+Result 3: Email Category - Unrelated
+
+<img width="704" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2eab5-097d-4c03-a8d4-fd3bb7950492" />
+
+
+
 https://youtu.be/qVQmgrfEqsk?si=GcT9vwU-KfygPpgG
 
 🚀 Conclusion
